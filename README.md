@@ -1,5 +1,5 @@
 # gems
-WGNHS-developed tools and documentation for working with the USGS Geologic Map Schema (GeMS) 
+WGNHS-developed tools and documentation for working with the USGS Geologic Map Schema (GeMS).  
 Please direct questions to Caroline at caroline.rose@wisc.edu
 
 ## What's included:  
