@@ -4,7 +4,7 @@ Please direct questions to Caroline at caroline.rose@wisc.edu
 
 ## What's included:  
 
-__DMT2019-Moving-Maps-to-GeMS:__ Slides from a presentation at the Digital Mapping Techniques meeting, May 2019, Butte, Montana
+__DMT2019-Moving-Maps-to-GeMS:__ Slides and the script from a presentation at the Digital Mapping Techniques meeting, May 2019, Butte, Montana
 
 __Workflow_Overview (PDF):__ This is a general overview of the steps we followed when converting previously-published maps into GeMS
 
