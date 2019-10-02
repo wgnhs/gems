@@ -17,5 +17,6 @@ Provided in both .doc and .pdf format.
 
 
 ## Other resources: 
-**USGS GeMS Toolkit:** https://github.com/usgs/GeMS_Tools/ 
+**USGS GeMS Toolkit:** https://github.com/usgs/GeMS_Tools/  
+
 **National Geological and Geophysical Data Preservation Program (NGGDPP) on GitHub:** https://github.com/nggdpp
