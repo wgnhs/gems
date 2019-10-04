@@ -17,8 +17,10 @@ Provided in both .doc and .pdf format.
 
 
 ## Other resources: 
-**USGSG GeMS official documentation:** https://ngmdb.usgs.gov/Info/standards/GeMS/  
+**USGS GeMS official documentation:** https://ngmdb.usgs.gov/Info/standards/GeMS/  
 
 **USGS GeMS Toolkit:** https://github.com/usgs/GeMS_Tools/  
+
+**NCGMP09 on Github:** https://github.com/ncgmp09 
 
 **National Geological and Geophysical Data Preservation Program (NGGDPP) on GitHub:** https://github.com/nggdpp
