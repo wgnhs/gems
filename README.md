@@ -23,4 +23,6 @@ Provided in both .doc and .pdf format.
 
 **NCGMP09 on Github:** https://github.com/ncgmp09 
 
-**National Geological and Geophysical Data Preservation Program (NGGDPP) on GitHub:** https://github.com/nggdpp
+**National Geological and Geophysical Data Preservation Program (NGGDPP) on GitHub:** https://github.com/nggdpp 
+
+**Arizona GS web map of a NCGMP09 map:** https://github.com/azgs/geologic-map-of-arizona
