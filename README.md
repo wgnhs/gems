@@ -14,7 +14,7 @@ __[GeMS Layers and Tables Quick Reference](https://github.com/wgnhs/gems/blob/ma
 Provided in both .doc and .pdf format. 
 
 
-[GeMS Attributes and Metadata](https://github.com/wgnhs/gems/blob/master/MetadataSummaryforGeMSFields_2020-06-05.pdf): Summarizes how the attributes in GeMS are described in the metadata after using the USGS GeMS Toolbox script called "FGDC CSDGM2 Metadata". 
+__[GeMS Attributes and Metadata](https://github.com/wgnhs/gems/blob/master/MetadataSummaryforGeMSFields_2020-06-05.pdf)__: Summarizes how the attributes in GeMS are described in the metadata after using the USGS GeMS Toolbox script called "FGDC CSDGM2 Metadata". 
 
 
 ### Conference Presentations: 
