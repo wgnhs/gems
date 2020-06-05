@@ -20,7 +20,7 @@ __[GeMS Attributes and Metadata](https://github.com/wgnhs/gems/blob/master/Metad
 ### Conference Presentations: 
 
 
-__[DMT2019-Moving-Maps-to-GeMS](https://github.com/wgnhs/gems/blob/master/DMT2019-Moving-Maps-to-GeMS.pdf):__ Slides and the script from a presentation at the Digital Mapping Techniques meeting, May 2019, Butte, Montana. An almost identical presentation was given at the NGGDPP workshop in Golden, CO in September of 2019. 
+__[DMT2019-Moving-Maps-to-GeMS](https://github.com/wgnhs/gems/blob/master/DMT2019-Moving-Maps-to-GeMS.pdf):__ Slides and the [script](https://github.com/wgnhs/gems/blob/master/DMT2019-moving-maps-to-gems-script.pdf) from a presentation at the Digital Mapping Techniques meeting, May 2019, Butte, Montana. An almost identical presentation was given at the NGGDPP workshop in Golden, CO in September of 2019. 
 
 
 ### Specialty tools: 
