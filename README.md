@@ -15,7 +15,13 @@ Provided in both .doc and .pdf format.
 
 __[GeMS Fields Checklist](https://github.com/wgnhs/gems/blob/master/GeMS_Fields_Checklist_2020-06-08.pdf):__ Checklist for looking through every attribute in a GeMS database; use in concert with the Validate Database script in the USGS GeMS Toolkit. 
 
-__[GeMS Attributes and Metadata](https://github.com/wgnhs/gems/blob/master/MetadataSummaryforGeMSFields_2020-06-05.pdf)__: Summarizes how the attributes in GeMS are described in the metadata after using the USGS GeMS Toolbox script called "FGDC CSDGM2 Metadata". 
+
+### Creating Metadata 
+
+__[Metadata For GeMS Maps - Step by Step in ArcCatalog](https://github.com/wgnhs/gems/blob/master/Metadata%20For%20GeMS%20Maps%20-%20Step%20by%20Step%20in%20ArcCatalog.pdf):__ Moving step by step through the ArcCatalog interface, correlates the ArcCatalog elements with their eventual FGDC elements. Use this prior to using the USGS Toolkit "FGDC CSDGM2 Metadata" Script. 
+
+
+__[GeMS Attributes and Metadata](https://github.com/wgnhs/gems/blob/master/MetadataSummaryforGeMSFields_2020-06-05.pdf):__ Summarizes how the attributes in GeMS are described in the metadata after using the USGS GeMS Toolbox script called "FGDC CSDGM2 Metadata". 
 
 
 ### Conference Presentations: 
