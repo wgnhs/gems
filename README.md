@@ -13,6 +13,7 @@ __[Workflow_Overview (PDF)](https://github.com/wgnhs/gems/blob/master/Workflow_O
 __[GeMS Layers and Tables Quick Reference](https://github.com/wgnhs/gems/blob/master/GeMS%20Layers%20and%20Tables%20Quick%20Reference_05-31-19.pdf):__ This document summarizes all fields for any GeMS layer or table. This mostly reproduces the text in the [GeMS manuscript](https://ngmdb.usgs.gov/Info/standards/GeMS/docs/GeMSv2_draft7g_ProvisionalRelease.pdf). It is meant to be printed so that one layer is summarized on one sheet of paper. We found this useful because it helps narrow down the reference material.
 Provided in both .doc and .pdf format. 
 
+__[GeMS Fields Checklist](https://github.com/wgnhs/gems/blob/master/GeMS_Fields_Checklist_2020-06-08.pdf):__ Checklist for looking through every attribute in a GeMS database; use in concert with the Validate Database script in the USGS GeMS Toolkit. 
 
 __[GeMS Attributes and Metadata](https://github.com/wgnhs/gems/blob/master/MetadataSummaryforGeMSFields_2020-06-05.pdf)__: Summarizes how the attributes in GeMS are described in the metadata after using the USGS GeMS Toolbox script called "FGDC CSDGM2 Metadata". 
 
