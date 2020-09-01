@@ -39,7 +39,7 @@ __[metadata-to-tables.py](https://github.com/wgnhs/gems/blob/master/metadata-to-
 __DecodeCodedDomains.tbx:__ An ArcMap toolbox with one tool in it. It references the .py script of the same name. The tool accepts a geodatabase as input, and it turns every coded domain into a table within the database. 
 
 
-
+<br><br>
 
 ## Other resources: 
 
