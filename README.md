@@ -1,4 +1,4 @@
-# gems
+# gems readme:
 Tools and documentation for working with the USGS Geologic Map Schema (GeMS), developed at the Wisconsin Geological and Natural History Survey (WGNHS). 
 Please direct questions to Caroline at caroline.rose@wisc.edu
 
