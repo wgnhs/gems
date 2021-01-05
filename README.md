@@ -1,10 +1,20 @@
-# gems readme:
+# GeMS Documentation:
 Tools and documentation for working with the USGS Geologic Map Schema (GeMS), developed at the Wisconsin Geological and Natural History Survey (WGNHS). 
 Please direct questions to Caroline at caroline.rose@wisc.edu
 
 All of these compliment the **USGS GeMS official documentation:** https://ngmdb.usgs.gov/Info/standards/GeMS/  
 
 ## Resources developed by WGNHS:  
+
+### Conference Presentations: 
+
+
+__DMT2019-Moving-Maps-to-GeMS:__ [Slides](https://github.com/wgnhs/gems/blob/master/DMT2019-Moving-Maps-to-GeMS.pdf) and the [script](https://github.com/wgnhs/gems/blob/master/DMT2019-moving-maps-to-gems-script.pdf) from a presentation at the Digital Mapping Techniques meeting, May 2019, Butte, Montana. An almost identical presentation was given at the NGGDPP workshop in Golden, CO in September of 2019. 
+
+__DMT2020: Moving Maps to GeMS, part2:__ [Slides](https://github.com/wgnhs/gems/blob/master/DMT2020-Moving-Maps-to-GeMS-Part2.pdf) and [script](https://github.com/wgnhs/gems/blob/master/DMT2020-Script-Moving-Maps-to-GeMS-Part2.pdf) from a presentation at the Digital Mapping Techniques web conference, June 2020. 
+
+
+### Reference PDFs:
 
 
 __[Workflow_Overview (PDF)](https://github.com/wgnhs/gems/blob/master/Workflow_Overview_05-19-19.pdf):__ This is a general overview of the steps we followed when converting previously-published maps into GeMS
@@ -23,13 +33,6 @@ __[Metadata For GeMS Maps - Step by Step in ArcCatalog](https://github.com/wgnhs
 
 __[GeMS Attributes and Metadata](https://github.com/wgnhs/gems/blob/master/MetadataSummaryforGeMSFields_2020-06-05.pdf):__ Summarizes how the attributes in GeMS are described in the metadata after using the USGS GeMS Toolbox script called "FGDC CSDGM2 Metadata". 
 
-
-### Conference Presentations: 
-
-
-__DMT2019-Moving-Maps-to-GeMS:__ [Slides](https://github.com/wgnhs/gems/blob/master/DMT2019-Moving-Maps-to-GeMS.pdf) and the [script](https://github.com/wgnhs/gems/blob/master/DMT2019-moving-maps-to-gems-script.pdf) from a presentation at the Digital Mapping Techniques meeting, May 2019, Butte, Montana. An almost identical presentation was given at the NGGDPP workshop in Golden, CO in September of 2019. 
-
-__DMT2020: Moving Maps to GeMS, part2:__ [Slides](https://github.com/wgnhs/gems/blob/master/DMT2020-Moving-Maps-to-GeMS-Part2.pdf) and [script](https://github.com/wgnhs/gems/blob/master/DMT2020-Script-Moving-Maps-to-GeMS-Part2.pdf) from a presentation at the Digital Mapping Techniques web conference, June 2020. 
 
 
 ### Specialty tools: 
